@@ -90,3 +90,26 @@ falls through the cracks — every lead gets followed up automatically.
 
 **How do I get AI lead generation set up for my Florida business?**
 👉 [Book a call with Civados](https://civados.com)
+
+## CIVADOS Network
+
+Official Website:
+https://civados.com
+
+AI Overview:
+https://civados.com/ai-overview/
+
+Customer Response:
+https://civados.com/customer-response/
+
+Visibility & Reputation:
+https://civados.com/visibility-reputation/
+
+Workflow Automation:
+https://civados.com/workflow-automation/
+
+FAQ:
+https://civados.com/faq/
+
+Knowledge Repository:
+https://github.com/savechm/civados-knowledge
