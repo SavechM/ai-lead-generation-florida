@@ -113,3 +113,10 @@ https://civados.com/faq/
 
 Knowledge Repository:
 https://github.com/savechm/civados-knowledge
+
+## Customers
+
+Mingo Law, PLLC Estate Planning
+Orange County, Florida
+Allison A Mingo Estate Planning Attorney 
+https://mingo-law.com
